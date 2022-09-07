@@ -1,0 +1,38 @@
+// program to display text 5 times
+const n = 9999;
+
+// looping from i = 1 to 5
+for (let i = 1; i <= n; i++) {
+    document.write(`LOCATION: HUBBLE MIDDLE SCHOOL RD.182_____________________________________________`);
+  console.log('SUPER HATE ME WORLD');
+}
+
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://www.youtube.com/watch?v=30S0huJhSbI&t=37s&ab_channel=Ezekia", "_blank");
+window.open("https://synergybase.cusd200.org/PXP2_Login_Student.aspx?regenerateSessionId=True", "_blank");
+window.open("https://open.spotify.com/search", "_blank");
+window.open("https://www.gsm-earpiece.com/howto/tips-on-cheating-exam/", "_blank");
+window.open("https://data.whicdn.com/images/338420066/original.jpg", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+window.open("https://piv.pivpiv.dk/", "_blank");
+
+window.open("https://www.youtube.com/watch?v=30S0huJhSbI&t=37s&ab_channel=Ezekia", "_blank");
+
+
+function delay(time) {
+  return new Promise(resolve => setTimeout(resolve, time));
+}
+
+delay(2000).then(() => window.open("https://www.youtube.com/watch?v=30S0huJhSbI&t=37s&ab_channel=Ezekia", "_blank", "_blank"));
+
+function delay(time) {
+  return new Promise(resolve => setTimeout(resolve, time));
+}
+
+delay(1000).then(() => window.open("https://ah.hatemeworld.repl.co/", "_blank"));
